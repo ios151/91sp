@@ -12,10 +12,10 @@ Surge / Loon / Stash / Quantumult X / Shadowrocket / Egern 通用。
 代理工具里填对应格式的地址即可：
 
 ```
-Surge / Egern     https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.sgmodule
-Quantumult X      https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.conf
-Loon              https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.lpx
-Shadowrocket      https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.shadowrocket.sgmodule
+Surge / Egern     https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.sgmodule
+Quantumult X      https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.conf
+Loon              https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.lpx
+Shadowrocket      https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.shadowrocket.sgmodule
 ```
 
 > Stash：用 [Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) 把 `91porn.sgmodule` 转换后订阅。

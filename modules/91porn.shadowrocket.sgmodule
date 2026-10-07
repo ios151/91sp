@@ -1,10 +1,10 @@
 #!name=91Porn 短视频
 #!desc=91Porn PWA: 完整视频 + 付费/VIP解锁 + 去广告，默认常开无开关
-#!icon=https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.png
-#!author=Yu9191
+#!icon=https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.png
+#!author=ios151
 
 [Script]
-91porn = type=http-request, pattern=^https?:\/\/[^/]+\/pwa\.php, requires-body=1, timeout=30, script-path=https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/dist/91porn.js
+91porn = type=http-request, pattern=^https?:\/\/[^/]+\/pwa\.php, requires-body=1, timeout=30, script-path=https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/dist/91porn.js
 
 [MITM]
 hostname = *.yxrznglgy.cc, *.nkbvfuvu.cc

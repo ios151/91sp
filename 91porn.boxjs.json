@@ -1,9 +1,9 @@
 {
     "id": "91Porn.app",
     "name": "91Porn 短视频",
-    "author": "Yu9191",
-    "icon": "https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.png",
-    "repo": "https://github.com/Yu9191/91sp",
+    "author": "ios151",
+    "icon": "https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.png",
+    "repo": "https://github.com/ios151/91sp",
     "apps": [
         {
             "id": "91PornSettings",
@@ -87,10 +87,10 @@
                     "desc": "脚本日志输出级别（影响代理工具的日志面板）"
                 }
             ],
-            "author": "Yu9191",
-            "repo": "https://github.com/Yu9191/91sp",
+            "author": "ios151",
+            "repo": "https://github.com/ios151/91sp",
             "icons": [
-                "https://raw.githubusercontent.com/Yu9191/91sp/refs/heads/main/modules/91porn.png"
+                "https://raw.githubusercontent.com/ios151/91sp/refs/heads/main/modules/91porn.png"
             ],
             "script": "https://worker91.pages.dev/91porn.js"
         }
